@@ -14,9 +14,23 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Neues Dokument 1">
+   sodipodi:docname="ImagingImaginingDiagramm.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3800"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,11 +38,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="506.336"
-     inkscape:cy="732.21925"
+     inkscape:zoom="0.7"
+     inkscape:cx="439.04689"
+     inkscape:cy="347.06399"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4614"
      showgrid="false"
      inkscape:window-width="1553"
      inkscape:window-height="876"
@@ -51,27 +65,166 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:0.60900003;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path2985"
-       sodipodi:cx="385.3732"
-       sodipodi:cy="203.32896"
-       sodipodi:rx="85.357887"
-       sodipodi:ry="85.357887"
-       d="m 470.73109,203.32896 a 85.357887,85.357887 0 1 1 -170.71578,0 85.357887,85.357887 0 1 1 170.71578,0 z"
-       transform="matrix(0.87618134,0,0,0.87618134,47.10979,25.782521)" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="316.25897"
-       y="215.91525"
-       id="text2987"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2989"
-         x="316.25897"
-         y="215.91525"
-         style="font-size:32px;font-family:Times New Roman;-inkscape-font-specification:Times New Roman">The World</tspan></text>
+    <g
+       id="g3018"
+       transform="translate(-0.23455809,0.88751697)">
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         x="180.71429"
+         y="476.64789"
+         id="text4242"
+         sodipodi:linespacing="125%"
+         transform="translate(0.23455809,-0.88751697)"><tspan
+           sodipodi:role="line"
+           id="tspan4244"
+           x="180.71429"
+           y="476.64789" /></text>
+      <g
+         id="g4298"
+         transform="translate(182.85714,86.142857)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3023"
+           d="m -30.29215,462.00314 207.78925,0"
+           style="fill:none;stroke:#000000;stroke-width:0.86708164px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4246"
+           y="460.62799"
+           x="-20.224594"
+           style="font-size:9.0955534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           xml:space="preserve"><tspan
+             style="font-size:24.25481033px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor"
+             y="460.62799"
+             x="-20.224594"
+             id="tspan4248"
+             sodipodi:role="line">Understanding</tspan></text>
+      </g>
+      <g
+         id="g4376">
+        <g
+           transform="matrix(0.75796281,0,0,0.75796281,224.36614,146.20698)"
+           id="g4267">
+          <g
+             transform="translate(-295.98578,0)"
+             style="stroke-width:0.80346948;stroke-miterlimit:4;stroke-dasharray:none"
+             id="g4261" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text2987"
+           y="544.78149"
+           x="12.999493"
+           style="font-size:9.0955534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-size:28.00000191px;font-weight:bold;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor Bold"
+             y="544.78149"
+             x="12.999493"
+             id="tspan2989"
+             sodipodi:role="line">The World</tspan></text>
+        <rect
+           y="518.61865"
+           x="4.5721631"
+           height="34.94698"
+           width="147.83386"
+           id="rect4259"
+           style="fill:none;stroke:#000000;stroke-width:0.71278107;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         id="g4407"
+         transform="translate(63.19025,-52)">
+        <g
+           id="g4627">
+          <g
+             id="g4633">
+            <g
+               id="g4419">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text2987-4"
+                 y="546.77087"
+                 x="344.67651"
+                 style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+                 xml:space="preserve"><tspan
+                   style="font-size:28px;font-weight:bold;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor Bold"
+                   y="546.77087"
+                   x="344.67651"
+                   id="tspan2989-5"
+                   sodipodi:role="line">The Model</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4614"
+         transform="translate(42.236458,28.284272)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4610"
+           y="565.56769"
+           x="108.05199"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           xml:space="preserve"><tspan
+             style="font-size:24.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor"
+             y="565.56769"
+             x="108.05199"
+             id="tspan4612"
+             sodipodi:role="line">Language</tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.60900003;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4639"
+           width="5.7142859"
+           height="2.8571429"
+           x="341.42856"
+           y="872.36218"
+           transform="translate(-50.273069,-29.171789)" />
+        <text
+           xml:space="preserve"
+           style="font-size:24.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor"
+           x="357.64828"
+           y="516.61896"
+           id="text4641"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4643"
+             x="357.64828"
+             y="516.61896">Perceptual &amp;</tspan><tspan
+             sodipodi:role="line"
+             x="357.64828"
+             y="547.24396"
+             id="tspan4673">Conceptual </tspan><tspan
+             sodipodi:role="line"
+             x="357.64828"
+             y="577.86896"
+             id="tspan4645">Elements</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor"
+           x="441.24347"
+           y="538.20001"
+           id="text4641-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="441.24347"
+             y="538.20001"
+             id="tspan4645-0" /></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.05854356px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="M 232.28378,560.00618 346.87756,530.37241"
+           id="path4684"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:0.60900003;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4623"
+         sodipodi:cx="439.28571"
+         sodipodi:cy="607.36218"
+         sodipodi:rx="116.42857"
+         sodipodi:ry="116.42857"
+         d="m 555.71428,607.36218 a 116.42857,116.42857 0 1 1 -232.85715,0 116.42857,116.42857 0 1 1 232.85715,0 z"
+         transform="translate(38.234558,-56.887517)" />
+    </g>
   </g>
 </svg>
