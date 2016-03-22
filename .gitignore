@@ -10,6 +10,12 @@
 *.fot
 *.cb
 *.cb2
+*-blx.bib
+*.bbl
+*.blg
+*.fdb_latexmk
+*.run.xml
+*.gz
 
 ## Intermediate Files
 *.dvi
