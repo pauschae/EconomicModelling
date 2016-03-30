@@ -1,0 +1,34 @@
+Conceptual Versus Perceptual Space
+Philosophers of science often think of model making as a process of "simplification, isolation, abstraction".
+This is a process of perception and illustration.
+Modern economists build up their model worlds from simple elements. This is a process of visualization, in other words understanding the world and coming up with new elements to represent it.
+Illustration takes part in the perceptual space of the artist. Visualization takes part in the conceptual space of the economist.
+The concepts the economist imagines live in the conceptual space.  The function of the perceptual space is to illustrate these concepts and the outcomes of their manipulation.
+
+Modeling and the Use of Mathematics
+In order to create mathematical models, economists need mathematical representations of the world. In the example of Ricardo's model farm these representations are things that can be numerically measured in the real world like prices or wages. Edgeworth used abstract concepts like indifference curves, that had to be imagined before he could use them in his model (making an image of them). 
+Mathematical languages work by the manipulation of symbols. The rules for this manipulations are given by the model and by the mathematical language used in the model. 
+The move from sentences to diagrams can be regarded as a bigger step than the move from sentences to algebra. Sentences express temporal or logical relations. Diagrams express local or spatial relations.
+
+The Process of Visualization
+Economists try to understand the world. In that process of understanding they come up with new concepts. Visualization means that economists take their understanding about the world and give it a new from. This new form is an economic model. inside a model the new economic concepts have a symbolic representation which can be manipulated. This representation is part of the conceptual space and illustrates the economic concepts imagined by the model-builder.
+
+Imagining new Concepts
+In the process of model building economists come up with new concepts. Their language, which is mathematical, leads them to make new statements about the world. These statements are different from what can be achieved with verbal economics. Nevertheless they can be expressed in verbal forms. But then new names for the new concepts represented in the model are needed. If a model is new, it cannot be omitted from the text without loosing crucial information. 
+If the reasoning and the diagram both take part in the conceptual space, i.e. by manipulating economic concepts, the diagram plays a vital role in the argument If the diagram is in the perceptual space, the reasoning is "off the diagram” (Mahoney 1985).
+
+Marshall's first Trade Diagram
+Marshall's first trade diagram is a model of international trade between Germany and England. 
+The orange curves are the offer curves, they depict the offers of German linen for English cloth and vice versa, if you change relative prices. The two axis depict the quantities of the two goods.
+
+The Original Edgeworth Box
+The Edgeworth box depicts trade between Robinson X and Freitag Y. X denotes the labor provided by X and Y denotes the renumeration given by Y. Each point in the space contained by the two axis is a contract. The orange lines are again the offer curves. The green lines are the indifference curves going through the origin. The lilac line is the contract curve.  
+
+
+
+
+
+
+
+
+
